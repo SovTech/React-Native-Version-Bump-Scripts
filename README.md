@@ -12,3 +12,11 @@ The scripts will patch/minor/major bump the version numbers of your node project
 2. Change the paths to your project in all of the bash scripts
 
 3. Run the gulp tasks to bump
+
+eg:
+
+`gulp patch-all-versions`
+
+`gulp minor-bump-all-versions`
+
+`gulp major-bump-all-versions`
