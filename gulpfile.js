@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var bump = require('gulp-bump');
+var exec = require('child_process').exec;
 
 gulp.task('patch-bump', function () {
     gulp.src('./package.json')

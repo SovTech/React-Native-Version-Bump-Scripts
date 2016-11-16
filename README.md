@@ -1,7 +1,11 @@
 # React-Native-Version-Bump-Scripts
 A set of bash scripts and gulp tasks to bump android and ios version numbers
 
-The scripts will patch/minor/major bump the version numbers of your node project and your ios project. Additionally there is a script to sync the android manifest version with the ios version from the project info.plist.
+The scripts will patch/minor/major bump the version numbers of your node project and your iOS project. Additionally there is a script to sync the android manifest version with the iOS version from the project info.plist.
+
+## Note
+
+These are bash scripts and only tested on OSX. Windows now has support for bash but these scripts have not been tested on it yet.
 
 ## How to use
 
