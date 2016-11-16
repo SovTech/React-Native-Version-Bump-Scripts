@@ -5,7 +5,7 @@ The scripts will patch/minor/major bump the version numbers of your node project
 
 ## Note
 
-These are bash scripts and only tested on OSX. Windows now has support for bash but these scripts have not been tested on it yet.
+These are bash scripts and only tested on OSX. Windows now has support for bash but these scripts have not been tested on Windows.
 
 ## How to use
 
